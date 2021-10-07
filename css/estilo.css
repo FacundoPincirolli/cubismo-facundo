@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
+
+*{
+    max-width: 1200px;
+    margin: auto;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.titulos{
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.texto{
+    font-family: 'Urbanist', sans-serif;
+    font-size: 22px;
+}
+
+.bio{
+    font-size: 19px;
+}
+
+.tamaño{
+    width: 70%;
+    margin-left: 50px;
+}
+
+.header{
+    font-size: 23px;
+}
+
+.colorinicio{
+    background-color: bisque;
+}
+
+.hr{
+    width: 75%;
+    margin: auto;
+    margin-top: 20px;
+    color: black;
+    size: 20px;
+}
+
+
+
+.colore{
+    height: 1259px;
+    background-color: darkgoldenrod;
+    margin-left: 13px;
+}
+
+.textocontacto{
+    width: 70%;
+    margin: auto;
+}
+
+.cont{
+    text-align: justify;
+}
+
+.horizontal{
+    height: 200px;
+    width: auto;
+    background-color: beige;
+}
+
+.nombre{
+    text-decoration: none;
+    color: black;margin: 5px;
+    font-size: 18px;
+}
+
+
+.nombre:hover{
+    transform: scaleX(1.2) scaleY(1.2);
+}
+
+
+
+.histim{
+    width: 40%;
+}
+
+.lista{
+    list-style: none
+}
+
+.destacada{
+    width: 50%;
+}
+
+.destacadas{
+    width: 50%;
+    margin: 50px;
+}
+
+/*#contenedor{
+    width: 90%;
+	margin: 0 auto;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+}*/
+
+.destacadas{
+	width: 60%;
+	padding: 1.5%;
+}
+
+.flex{
+    
+    display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: baseline;
+	align-content: center;
+    padding: 20px;
+    
+}
+
+/*.ejemplo{
+    padding: 20px; 
+	clear: both;
+	font-size: 20px; 
+		 display: flex; 
+	flex-flow: wrap;
+} */
+
+/* agregar a las obras representativas 
+.imginicio{
+    width: 20%;
+}
+*/
+.imginicio{
+    width: 20%;
+}
+
+/*.imginicio{
+    width: 80%;
+margin: auto;
+display: block;
+}*/
+
+.titulitos{
+    font-size: 30px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.boton:hover{
+    transform: scaleX(1.2) scaleY(1.2);
+}
+
+.mas:hover{
+    transform: scaleX(1.2) scaleY(1.2);
+}
+
+.diome{
+    margin-left: 30px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.desnudo{
+    width: 18.5%;
+}
+
+.imgart{
+    width: 17%;
+}
+
+.braque{
+    width: 17%;
+}
+
+.imgarts{
+    width: 15.4%;
+}
+
+.hist{
+    float: left;
+    width: 30%;
+    margin: 5px;
+}
+
+.histi{
+    float: right;
+    margin: 5px;
+    width: 50%;
+}
+
+.caract{
+    float: right;
+    margin: 5px;
+    width: 25%;
+}
+
+.pabloimg{
+    width: 17%;
+}
+
+.mas{
+    width: 3%;
+}
+
+/*Galeria*/
+
+.galflex{
+	display:flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+    
+}
+
+.galeriaimg{
+    width: 30%;
+}
+
+.gal{
+    width: 31.9%;
+}
+
+.gal1{
+    width: 33%;
+}
+
+
+.obras{
+    max-width: 1050px;
+}
+
+.borde{
+    border: 1px solid rgba(150, 150, 150, 0.116);
+
+
+}
+
+.boton{
+    background-color: rgba(199, 201, 71, 0.808);
+    width: 15%;
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.boton:hover{
+    background-color: white;
+    border: 1px solid rgba(145, 145, 145, 0.144);
+}
+
+.botones{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.botones:hover{
+    color: white;
+}
+
+.pintura{
+    background-color: rgb(180, 130, 56);
+}
+
+.escultura{
+    background-color: rgb(180, 130, 56);
+}
+
+.imgart{
+    width: 25.5%;
+}
+
+.img{
+    width: 32.5%;
+}
+
+.obra{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.escultur{
+    width: 23.5%;
+}
+
+.img3{
+    width: 34%;
+}
+
+.imgfernand{
+    width: 29.2%
+}
+
+.maria1{
+    width: 30.5%;
+}
+
+.maria3{
+    width: 32.5%;
+}
+
+.georges2{
+    width: 30%;
+}
+
+.imgart3{
+    width: 29%;
+}
+
+.flacher{
+    margin-left: 65px;
+}
